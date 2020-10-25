@@ -2,7 +2,7 @@
 
 ### This Repo contain Solved Assignments for Tensorflow in practice course on coursera, it is great course.
 
-#### See this course [here](https://www.coursera.org/specializations/tensorflow-in-practice) & all my certification is [here](https://www.linkedin.com/in/eshan-agarwal-b14a2117b/)
+#### See this course [here](https://www.coursera.org/specializations/tensorflow-in-practice) & all my certification is [here](https://coursera.org/share/815938e6456438cad07c1a81d51cafb8)
 
 # About this Specialization
 
